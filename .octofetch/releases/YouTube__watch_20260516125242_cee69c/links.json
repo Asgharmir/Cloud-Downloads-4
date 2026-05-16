@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8490",
+  "folder": "YouTube__watch_20260516125242_cee69c",
+  "base_name": "aespa_Whiplash_MV_jWQx2f-CErU_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Asgharmir/Cloud-Downloads-4/releases/tag/co-releases-v1-8490",
+  "files": [
+    {
+      "name": "aespa_Whiplash_MV_jWQx2f-CErU_1080p.mp4",
+      "url": "https://github.com/Asgharmir/Cloud-Downloads-4/releases/download/co-releases-v1-8490/aespa_Whiplash_MV_jWQx2f-CErU_1080p.mp4",
+      "api_url": "https://api.github.com/repos/Asgharmir/Cloud-Downloads-4/releases/assets/421820062",
+      "id": 421820062,
+      "size": 57117503,
+      "download_count": 0
+    }
+  ]
+}
